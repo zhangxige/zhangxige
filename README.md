@@ -173,6 +173,6 @@ _Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
   <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
-<a href="https://dribbble.com/cszach">
-  <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+<a href="https://github.com/zhangxige/zhangxige/main">
+  <img height="32" align="left" alt="Dribbble" src="img/dribbble.png" />
 </a>

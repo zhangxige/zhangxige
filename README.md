@@ -29,3 +29,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 ![](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### My Skill Set(learning)
+![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+[![Rust](https://img.shields.io/static/v1?label=Language&message=Rust&color=blue&style=flat-square)](https://www.rust-lang.org/)

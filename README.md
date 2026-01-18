@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋,I'm xi zhang.
+### Hi there 👋,this is zhangxige's github homepage, focus on learning and using program language to make userful software.
 
-- 🔭 I’m currently working on something cool.
+- 🔭 I’m currently working on exploring more interesting python package to do useful software.
+- Learning about Rust to supply the python development.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Python/c++.
+- 💬 Ask me about anything related to Python/Rust.
 - 📫 How to reach me: daxuekanshijie@sina.cn
 - 😄 Read more about my github: [here](https://github.com/zhangxige)
 

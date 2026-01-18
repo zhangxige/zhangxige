@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 ### Hi there 👋,this is zhangxige's github homepage, focus on learning and using program language to make userful software.
 
 - 🔭 I’m currently working on exploring more interesting python package to do useful software.
-- Learning about Rust to supply the python development.
+- ⚡Learning about Rust to supply the python development.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Python/Rust.
 - 📫 How to reach me: daxuekanshijie@sina.cn
 - 😄 Read more about my github: [here](https://github.com/zhangxige)
+
+My interest lies in studying the efficient usage of some programming languages and building related applications (whether local tools or front-end and back-end applications).
+
+If you are also interested in this area, you can submit a request to get in contact.
 
 ![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
 

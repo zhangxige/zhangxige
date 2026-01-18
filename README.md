@@ -37,3 +37,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 ### My Skill Set(learning)
 ![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 [![Rust](https://img.shields.io/static/v1?label=Language&message=Rust&color=blue&style=flat-square)](https://www.rust-lang.org/)
+
+### My Hobby
+
+Photography
+
+## Sincerely hope to get feedback！！！

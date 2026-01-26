@@ -40,6 +40,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 ### My Hobby
 
-Photography
+![great](img/3d%20design.jpg)
+<center>Photography</center>
 
 ## Sincerely hope to get feedback！！！

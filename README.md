@@ -36,11 +36,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 ### My Skill Set(learning)
 ![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-[![Rust](https://img.shields.io/static/v1?label=Language&message=Rust&color=blue&style=flat-square)](https://www.rust-lang.org/)[![Vue](https://img.shields.io/static/v1?label=Language&message=Vue&color=blue&style=flat-square)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/static/v1?label=Language&message=Rust&color=blue&style=flat-square)](https://www.rust-lang.org/) [![Vue](https://img.shields.io/static/v1?label=Language&message=Vue&color=blue&style=flat-square)](https://www.rust-lang.org/)
 
-!!! note
+<details>
+<summary> The aim of the project<summary>
+
 
     This project is used free for everyone, and i will make the project more helpful and easily for using.
+
+</details>
 
 ### My Hobby
 

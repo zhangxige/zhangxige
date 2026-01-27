@@ -39,8 +39,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 [![Rust](https://img.shields.io/static/v1?label=Language&message=Rust&color=blue&style=flat-square)](https://www.rust-lang.org/) [![Vue](https://img.shields.io/static/v1?label=Language&message=Vue&color=blue&style=flat-square)](https://www.rust-lang.org/)
 
 <details>
-<summary> The aim of the project<summary>
-
+<summary> The aim of the project</summary>
 
     This project is used free for everyone, and i will make the project more helpful and easily for using.
 

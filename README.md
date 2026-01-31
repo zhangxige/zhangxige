@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to Python/Rust.
 - 📫 How to reach me: daxuekanshijie@sina.cn
 - 😄 Read more about my github: [here](https://github.com/zhangxige)
-- Read my githubio website:[here](https://zhangxige.github.io)
+- Read my githubio website: [here](https://zhangxige.github.io)
 
 My interest lies in studying the efficient usage of some programming languages and building related applications (whether local tools or front-end and back-end applications).
 

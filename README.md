@@ -33,7 +33,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 ### My Skill Set
 
-![](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Rust-3776AB?style=for-the-badge&logo=Rust&logoColor=red)
 
 ### My Skill Set(learning)
 ![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)

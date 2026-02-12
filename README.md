@@ -53,4 +53,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 - learn a new Skiil
 - Photograph
 - go to a Travel
+
+> 2026's Plan
+>
+> 1. Good sleep time.  
+> 2. Good Learn update everyday.
+> 3. Do as what saying.
+
 ## Sincerely hope to get feedback！！！

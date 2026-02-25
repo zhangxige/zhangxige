@@ -60,4 +60,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 > 2. Good Learn update everyday.
 > 3. Do as what saying.
 
+> My Job major in image IQA.
+
 ## Sincerely hope to get feedback！！！

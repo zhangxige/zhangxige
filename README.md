@@ -56,10 +56,14 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 > 2026's Plan
 >
-> 1. Good sleep time.  
-> 2. Good Learn update everyday.
-> 3. Do as what saying.
-
+> - [√] Good sleep time.  
+> - [√] Good Learn update everyday.
+> - [√] Do as what saying.
+---
 > My Job major in image IQA.
 
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
+---
 ## Sincerely hope to get feedback！！！

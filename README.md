@@ -60,6 +60,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 > - [√] Good Learn update everyday.
 > - [√] Do as what saying.
 ---
-> My Job major in image IQA.
+> My Job major in digital image IQA and related useful software develpment.Exploring the implementation and deployment of related technologies
 ---
 ## Sincerely hope to get feedback！！！

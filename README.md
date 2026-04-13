@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: daxuekanshijie@sina.cn
 - 😄 Read more about my github: [here](https://github.com/zhangxige)
 - Read my githubio website: [here](https://zhangxige.github.io)
+- Read my github gist website to find better idea: [here](https://gist.github.com/zhangxige)
 
 My interest lies in studying the efficient usage of some programming languages and building related applications (whether local tools or front-end and back-end applications).
 

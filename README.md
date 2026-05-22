@@ -1,66 +1,159 @@
-<!--
-**zhangxige/zhangxige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&color=F7C948&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+zhangxige;Python+%F0%9F%92%9A+%7C+Rust+%F0%9F%A6%80+%7C+C%2B%2B+%E2%9A%A1;Building+useful+software" alt="Typing SVG" />
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/zhangxige"><img src="https://img.shields.io/badge/GitHub-zhangxige-181717?style=flat-square&logo=github" /></a>
+  <a href="https://zhangxige.github.io"><img src="https://img.shields.io/badge/Website-zhangxige.github.io-4285F4?style=flat-square&logo=google-chrome" /></a>
+  <a href="mailto:daxuekanshijie@sina.cn"><img src="https://img.shields.io/badge/Email-daxuekanshijie@sina.cn-EA4335?style=flat-square&logo=gmail" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there 👋,this is zhangxige's github homepage, focus on learning and using program language to make userful software.
-
-- 🔭 I’m currently working on exploring more interesting python package to do useful software.
-- ⚡Learning about Rust to supply the python development.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Python/Rust.
-- 📫 How to reach me: daxuekanshijie@sina.cn
-- 😄 Read more about my github: [here](https://github.com/zhangxige)
-- Read my githubio website for whole useful project: [here](https://zhangxige.github.io)
-- Read my github gist website to find better simple idea: [here](https://gist.github.com/zhangxige)
-
-My interest lies in studying the efficient usage of some programming languages and building related applications (whether local tools or front-end and back-end applications).
-
-If you are also interested in this area, you can submit a request to get in contact.
-
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
-
-### My Skill Set
-
-![](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Rust-3776AB?style=for-the-badge&logo=Rust&logoColor=red)
-
-### My Skill Set(learning)
-![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-[![Rust](https://img.shields.io/static/v1?label=Language&message=Rust&color=blue&style=flat-square)](https://www.rust-lang.org/) [![Vue](https://img.shields.io/static/v1?label=Language&message=Vue&color=blue&style=flat-square)](https://www.rust-lang.org/)
-
-<details open>
-<summary> The aim of the project </summary>
-
-    This project is used free for everyone, and i will make the project more helpful and easily for using.
-
-</details>
-
-### My Hobby
-
-![great](img/3d%20design.jpg)
-- learn a new Skiil
-- Photograph
-- go to a Travel
-
-> 2026's Plan
->
-> - [√] Good sleep time.  
-> - [√] Good Learn update everyday.
-> - [√] Do as what saying.
 ---
-> My Job major in digital image IQA and related useful software develpment.Exploring the implementation and deployment of related technologies
+
+### 🙋 About Me
+
+```text
+🔭  Working on   : Exploring interesting Python packages to build useful software
+⚡  Learning     : Rust to complement Python development
+🌱  Also learning: Everything I like
+💬  Ask me about : Python / Rust / C++
+🎯  Focus area   : Digital Image IQA & software development
+```
+
+> My interest lies in studying the efficient usage of programming languages and building related applications — whether local tools or full-stack applications. If you share this interest, feel free to reach out!
+
+<p align="right">
+  <a href="https://github.com/zhangxige"><img src="https://img.shields.io/github/followers/zhangxige?style=social" /></a>
+  <a href="https://github.com/zhangxige?tab=stars"><img src="https://img.shields.io/github/stars/zhangxige?style=social" /></a>
+</p>
+
 ---
-## Sincerely hope to get feedback！！！
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhangxige&show_icons=true&theme=transparent&hide_border=true&card_width=400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangxige&theme=transparent&hide_border=true&card_width=400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangxige&layout=compact&theme=transparent&hide_border=true&card_width=445" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zhangxige&theme=onedark&column=7&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <th align="center">Proficient</th>
+    <th align="center">Learning</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,cpp" />
+      <br/>
+      <sub>Python · C++</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=rust,js,vue" />
+      <br/>
+      <sub>Rust · JavaScript · Vue</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/zhangxige/Python-UseFul">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhangxige&repo=Python-UseFul&theme=transparent" />
+  </a>
+  <a href="https://github.com/zhangxige/Vue3-UseFul">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhangxige&repo=Vue3-UseFul&theme=transparent" />
+  </a>
+  <a href="https://github.com/zhangxige/zhangxige.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhangxige&repo=zhangxige.github.io&theme=transparent" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/zhangxige"><img src="https://img.shields.io/badge/GitHub-zhangxige-181717?style=for-the-badge&logo=github" /></a>&nbsp;
+  <a href="https://zhangxige.github.io"><img src="https://img.shields.io/badge/Website-zhangxige.github.io-4285F4?style=for-the-badge&logo=google-chrome" /></a>&nbsp;
+  <a href="https://t.me/Wcowin"><img src="https://img.shields.io/badge/Telegram-@Wcowin-26A5E4?style=for-the-badge&logo=telegram" /></a>&nbsp;
+  <a href="mailto:daxuekanshijie@sina.cn"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /></a>&nbsp;
+  <a href="https://gist.github.com/zhangxige"><img src="https://img.shields.io/badge/Gist-Visit-2D3748?style=for-the-badge&logo=github" /></a>&nbsp;
+</p>
+
+---
+
+### 🎨 My Hobby
+
+<p align="center">
+  <img src="img/3d%20design.jpg" width="280" />
+  <img src="img/web%20design.jpg" width="280" />
+  <img src="img/threejs.jpg" width="280" />
+</p>
+
+<p align="center">
+  🏂 Learn a new skill &nbsp;·&nbsp; 📸 Photograph &nbsp;·&nbsp; ✈️ Go on a trip
+</p>
+
+---
+
+### 🎯 2026's Plan
+
+```text
+✅ Good sleep time
+✅ Good learn update every day
+✅ Do as what saying
+```
+
+---
+
+### 📖 Latest from My Blog
+
+<p align="center">
+  <a href="https://zhangxige.github.io">
+    <img src="https://img.shields.io/badge/Blog-zhangxige.github.io-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
+</p>
+
+> Check out my [Zensical Chinese Tutorial](https://zhangxige.github.io) for the most detailed guide on Zensical!
+
+---
+
+### 💖 Support Me
+
+<p align="center">
+  <a href="https://github.com/sponsors/zhangxige">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-EA4AAA?style=for-the-badge&logo=github-sponsors" />
+  </a>
+  <a href="https://www.buymeacoffee.com/zhangxige">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/zhangxige/count.svg" alt="Visitor Count" />
+  <br/>
+  <sub>Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="16" /></sub>
+</p>
+
+<img src="https://raw.githubusercontent.com/zhangxige/zhangxige/output/github-contribution-grid-snake-dark.svg" />

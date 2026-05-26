@@ -75,7 +75,7 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/zhangxige/Python-UseFul">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhangxige&repo=Python-UseFul&theme=transparent" />
   </a>
@@ -85,7 +85,7 @@
   <a href="https://github.com/zhangxige/zhangxige.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhangxige&repo=zhangxige.github.io&theme=transparent" />
   </a>
-</p>
+</div>
 
 ---
 

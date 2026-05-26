@@ -45,7 +45,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhangxige&theme=onedark&column=7&no-frame=true&no-bg=true" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=zhangxige&theme=onedark&column=7&no-frame=true&no-bg=true" />
 </p>
 
 ---

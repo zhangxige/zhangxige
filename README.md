@@ -151,7 +151,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/zhangxige/count.svg" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zhangxige.zhangxige" alt="Visitor Count" />
   <br/>
   <sub>Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="16" /></sub>
 </p>

@@ -125,6 +125,18 @@
 
 ---
 
+### 🔥 Latest Interested in
+
+<p align="center">
+  <a href="https://nuxt.com">
+    <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  </a>
+</p>
+
+> Currently diving into [Nuxt](https://nuxt.com) — the intuitive Vue framework for building modern web applications.
+
+---
+
 ### 📖 Latest from My Blog
 
 <p align="center">

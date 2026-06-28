@@ -85,6 +85,9 @@
   <a href="https://github.com/zhangxige/zhangxige.github.io">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=zhangxige&repo=zhangxige.github.io&theme=transparent" />
   </a>
+    <a href="https://github.com/zhangxige/Image_Search_Tools">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=zhangxige&repo=Image_Search_Tools&theme=transparent" />
+  </a>
 </div>
 
 ---
@@ -146,6 +149,18 @@
 </p>
 
 > Check out my [Zensical Chinese Tutorial](https://zhangxige.github.io) for the most detailed guide on Zensical!
+
+---
+## 📖 Latest Interested in Nuxt
+
+<p align="center">
+  <a href="https://nuxt.com/">
+    <img src="https://img.shields.io/badge/Nuxt-official-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
+</p>
+
+> Check out [Nuxt](https://nuxt.com/) for the most detailed guide on Nuxt!
+---
 
 ---
 

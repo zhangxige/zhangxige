@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&color=F7C948&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+zhangxige;Python+%F0%9F%92%9A+%7C+Rust+%F0%9F%A6%80+%7C+C%2B%2B+%E2%9A%A1;Building+useful+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=F7C948&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+zhangxige;Python+%F0%9F%92%9A+%7C+Rust+%F0%9F%A6%80+%7C+C%2B%2B+%E2%9A%A1;Building+useful+software" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=zhangxige&show_icons=true&theme=transparent&hide_border=true&card_width=400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangxige&theme=transparent&hide_border=true&card_width=400" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=zhangxige&theme=transparent&hide_border=true&card_width=400" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=zhangxige&theme=onedark&column=7&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zhangxige&theme=onedark&column=7&no-frame=true&no-bg=true" />
 </p>
 
 ---

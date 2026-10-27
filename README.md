@@ -42,6 +42,15 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zhangxige&layout=compact&theme=transparent&hide_border=true&card_width=445" />
 </p>
 
+### 🏅 Achievements
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/achievements-dark.svg" />
+    <img src="assets/achievements-light.svg" alt="Contributions, public repositories and years on GitHub" />
+  </picture>
+</p>
+
 ### 📌 Featured Projects
 
 | Project | What it is |

@@ -1,0 +1,42 @@
+name: achievements
+
+on:
+  schedule:
+    - cron: "23 3 * * 1" # weekly, Monday 03:23 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/achievements.yml"
+      - ".github/scripts/achievements.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: achievements
+  cancel-in-progress: true
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate achievements card
+        env:
+          GH_USER: zhangxige
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/achievements.py
+
+      - name: Commit card if it changed
+        run: |
+          if [ -z "$(git status --porcelain assets)" ]; then
+            echo "Card is already up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/achievements-light.svg assets/achievements-dark.svg
+          git commit -m "chore: refresh achievements card"
+          git push

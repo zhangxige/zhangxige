@@ -4,8 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/zhangxige"><img src="https://img.shields.io/badge/GitHub-zhangxige-181717?style=flat-square&logo=github" /></a>
-  <a href="https://zhangxige.github.io"><img src="https://img.shields.io/badge/Website-zhangxige.github.io-4285F4?style=flat-square&logo=google-chrome" /></a>
-  <a href="mailto:daxuekanshijie@sina.cn"><img src="https://img.shields.io/badge/Email-daxuekanshijie@sina.cn-EA4335?style=flat-square&logo=gmail" /></a>
+  <a href="https://zhangxige.github.io"><img src="https://img.shields.io/badge/Blog-zhangxige.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://t.me/Wcowin"><img src="https://img.shields.io/badge/Telegram-@Wcowin-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:daxuekanshijie@sina.cn"><img src="https://img.shields.io/badge/Email-daxuekanshijie@sina.cn-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://gist.github.com/zhangxige"><img src="https://img.shields.io/badge/Gist-Visit-2D3748?style=flat-square&logo=github" /></a>
 </p>
 
 ---
@@ -13,18 +15,20 @@
 ### 🙋 About Me
 
 ```text
-🔭  Working on   : Exploring interesting Python packages to build useful software
-⚡  Learning     : Rust to complement Python development
-🌱  Also learning: Everything I like
-💬  Ask me about : Python / Rust / C++
-🎯  Focus area   : Digital Image IQA & software development
+🔭 Working on   : Exploring interesting Python packages to build useful software
+⚡ Learning     : Rust to complement Python development
+🎯 Focus area   : Digital Image IQA & software development
+💬 Ask me about : Python / Rust / C++
 ```
 
-> My interest lies in studying the efficient usage of programming languages and building related applications — whether local tools or full-stack applications. If you share this interest, feel free to reach out!
+> I enjoy studying the efficient usage of programming languages and building tools with them — from local utilities to full-stack apps. Feel free to reach out if you share this interest.
 
-<p align="right">
-  <a href="https://github.com/zhangxige"><img src="https://img.shields.io/github/followers/zhangxige?style=social" /></a>
-  <a href="https://github.com/zhangxige?tab=stars"><img src="https://img.shields.io/github/stars/zhangxige?style=social" /></a>
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,js,vue" />
+  <br/>
+  <sub>Proficient: Python · C++ &nbsp;|&nbsp; Learning: Rust · JavaScript · Vue</sub>
 </p>
 
 ---
@@ -34,150 +38,51 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=zhangxige&show_icons=true&theme=transparent&hide_border=true&card_width=400" />
   <img src="https://github-readme-streak-stats.demolab.com/?user=zhangxige&theme=transparent&hide_border=true&card_width=400" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zhangxige&layout=compact&theme=transparent&hide_border=true&card_width=445" />
 </p>
-
----
-
-### 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zhangxige&theme=onedark&column=7&no-frame=true&no-bg=true" />
 </p>
 
----
-
-### 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <th align="center">Proficient</th>
-    <th align="center">Learning</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp" />
-      <br/>
-      <sub>Python · C++</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=rust,js,vue" />
-      <br/>
-      <sub>Rust · JavaScript · Vue</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/zhangxige/Python-UseFul">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=zhangxige&repo=Python-UseFul&theme=transparent" />
-  </a>
-  <a href="https://github.com/zhangxige/Vue3-UseFul">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=zhangxige&repo=Vue3-UseFul&theme=transparent" />
-  </a>
-  <a href="https://github.com/zhangxige/zhangxige.github.io">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=zhangxige&repo=zhangxige.github.io&theme=transparent" />
-  </a>
-    <a href="https://github.com/zhangxige/Image_Search_Tools">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=zhangxige&repo=Image_Search_Tools&theme=transparent" />
-  </a>
-</div>
+| Project | What it is |
+| :-- | :-- |
+| **[Python-UseFul](https://github.com/zhangxige/Python-UseFul)** | 常用 Python 工具与脚本合集 |
+| **[Vue3-UseFul](https://github.com/zhangxige/Vue3-UseFul)** | Vue 3 实践与组件示例 |
+| **[Image_Search_Tools](https://github.com/zhangxige/Image_Search_Tools)** | 图像搜索与图像质量评价工具 |
+| **[zhangxige.github.io](https://github.com/zhangxige/zhangxige.github.io)** | 个人站点与技术笔记 |
 
 ---
 
-### 🌐 Connect with Me
+### 🎨 Beyond Code
 
 <p align="center">
-  <a href="https://github.com/zhangxige"><img src="https://img.shields.io/badge/GitHub-zhangxige-181717?style=for-the-badge&logo=github" /></a>&nbsp;
-  <a href="https://zhangxige.github.io"><img src="https://img.shields.io/badge/Website-zhangxige.github.io-4285F4?style=for-the-badge&logo=google-chrome" /></a>&nbsp;
-  <a href="https://t.me/Wcowin"><img src="https://img.shields.io/badge/Telegram-@Wcowin-26A5E4?style=for-the-badge&logo=telegram" /></a>&nbsp;
-  <a href="mailto:daxuekanshijie@sina.cn"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /></a>&nbsp;
-  <a href="https://gist.github.com/zhangxige"><img src="https://img.shields.io/badge/Gist-Visit-2D3748?style=for-the-badge&logo=github" /></a>&nbsp;
-</p>
-
----
-
-### 🎨 My Hobby
-
-<p align="center">
-  <img src="img/3d%20design.jpg" width="280" />
-  <img src="img/web%20design.jpg" width="280" />
-  <img src="img/threejs.jpg" width="280" />
+  <img src="img/3d%20design.jpg" width="230" />
+  <img src="img/web%20design.jpg" width="230" />
+  <img src="img/threejs.jpg" width="230" />
 </p>
 
 <p align="center">
   🏂 Learn a new skill &nbsp;·&nbsp; 📸 Photograph &nbsp;·&nbsp; ✈️ Go on a trip
 </p>
 
----
-
-### 🎯 2026's Plan
+### 🎯 Now
 
 ```text
-✅ Good sleep time
-✅ Good learn update every day
-✅ Do as what saying
+🎯 2026 : Good sleep · Learn something new every day · Do as I say
+🔥 Diving : Nuxt — the intuitive Vue framework for modern web apps
+📖 Blog   : Zensical 中文教程 → https://zhangxige.github.io
 ```
 
 ---
 
-### 🔥 Latest Interested in
-
 <p align="center">
-  <a href="https://nuxt.com">
-    <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-  </a>
-</p>
-
-> Currently diving into [Nuxt](https://nuxt.com) — the intuitive Vue framework for building modern web applications.
-
----
-
-### 📖 Latest from My Blog
-
-<p align="center">
-  <a href="https://zhangxige.github.io">
-    <img src="https://img.shields.io/badge/Blog-zhangxige.github.io-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
-  </a>
-</p>
-
-> Check out my [Zensical Chinese Tutorial](https://zhangxige.github.io) for the most detailed guide on Zensical!
-
----
-## 📖 Latest Interested in Nuxt
-
-<p align="center">
-  <a href="https://nuxt.com/">
-    <img src="https://img.shields.io/badge/Nuxt-official-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
-  </a>
-</p>
-
-> Check out [Nuxt](https://nuxt.com/) for the most detailed guide on Nuxt!
----
-
----
-
-### 💖 Support Me
-
-<p align="center">
-  <a href="https://github.com/sponsors/zhangxige">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-EA4AAA?style=for-the-badge&logo=github-sponsors" />
-  </a>
-  <a href="https://www.buymeacoffee.com/zhangxige">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
-
----
-
-<p align="center">
+  <a href="https://github.com/sponsors/zhangxige"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/zhangxige"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+  <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zhangxige.zhangxige" alt="Visitor Count" />
   <br/>
   <sub>Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="16" /></sub>

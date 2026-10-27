@@ -37,13 +37,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=zhangxige&show_icons=true&theme=transparent&hide_border=true&card_width=400" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=zhangxige&theme=transparent&hide_border=true&card_width=400" />
+  <img src="https://streak-stats.demolab.com?user=zhangxige&theme=transparent&hide_border=true&card_width=400" />
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zhangxige&layout=compact&theme=transparent&hide_border=true&card_width=445" />
 </p>
 
+<h3 align="center">📈 Contributions</h3>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhangxige&theme=onedark&column=7&no-frame=true&no-bg=true" />
+  <a href="https://github.com/zhangxige"><img src="https://ghchart.rshah.org/F7C948/zhangxige" alt="zhangxige's contribution chart" /></a>
 </p>
 
 ### 📌 Featured Projects

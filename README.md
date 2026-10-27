@@ -42,12 +42,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zhangxige&layout=compact&theme=transparent&hide_border=true&card_width=445" />
 </p>
 
-<h3 align="center">📈 Contributions</h3>
-
-<p align="center">
-  <a href="https://github.com/zhangxige"><img src="https://ghchart.rshah.org/F7C948/zhangxige" alt="zhangxige's contribution chart" /></a>
-</p>
-
 ### 📌 Featured Projects
 
 | Project | What it is |
